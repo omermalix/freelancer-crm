@@ -5,7 +5,7 @@
 You text your OpenClaw agent. It manages your clients.
 
 ```
-clawhub install umarbilal/freelancer-crm
+clawhub install omermalix/freelancer-crm
 ```
 
 ---
@@ -74,7 +74,7 @@ Start with Option A. Upgrade to Option B when you need to.
 
 **Install:**
 ```bash
-clawhub install umarbilal/freelancer-crm
+clawhub install omermalix/freelancer-crm
 ```
 
 **First-time setup:**
@@ -167,6 +167,6 @@ If you want this configured and running on your server without touching a termin
 
 ## Author
 
-**umarbilal** — Software developer building tools for freelancers.
+**omermalix** — Software developer building tools for freelancers.
 
 Questions or issues? Open a GitHub issue or message me directly.
