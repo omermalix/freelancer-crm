@@ -1,7 +1,7 @@
 ---
 name: freelancer-crm
 version: 1.0.2
-author: umarbilal
+author: omermalix
 description: >
   Autonomous CRM for freelancers. Tracks clients, detects follow-up
   opportunities, generates proposals, tracks invoices, and sends a
