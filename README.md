@@ -145,9 +145,12 @@ If you want this configured and running on your server without touching a termin
 - Your first 3 clients added to the system
 - 7 days of support if anything breaks
 
-**Price:** $149 — [Book here on Gumroad](https://gumroad.com)
+**Want a custom automation for your business?**
+I build custom OpenClaw skills and automations for freelancers and small businesses.
+- Email: umarmalik6685@gmail.com
+- WhatsApp: +923336685600
 
----
+**Price:** $149
 
 ## Changelog
 
